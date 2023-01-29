@@ -1,3 +1,3 @@
 # private_railway
 
-[AboutMe](/tmap.html)
+[Open Map](/tmap.html)
