@@ -1,4 +1,7 @@
-# private_railway
+# 私鉄地図
 
-[私鉄地図を開く](/tmap.html)
+tmapを利用した趣味の地図です。  
+開発中のため重いので注意してください。
+
+[私鉄地図を開く](/tmap.html)  
 [私鉄地図(with秘湯を守る会会員宿)を開く](/tmap_onsen.html)
